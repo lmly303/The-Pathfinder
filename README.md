@@ -36,6 +36,10 @@ Make sure you have the following installed:
 
 - A modern web browser (e.g., Chrome, Firefox, Safari)
 
+## Visit the App
+
+You can visit the deployed version of the Path Finder app [here]([https://your-deployed-app-link](https://thepathfinder-10a2h6rka-shrey-karirias-projects.vercel.app)).
+
 
 
 
